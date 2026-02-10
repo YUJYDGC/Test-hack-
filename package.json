@@ -1,0 +1,27 @@
+{
+  "name": "test-hack-elite-js",
+  "version": "5.0.0",
+  "description": "Test Hack Elite v5.0 - The Obliterator Edition (Ultimate Security Testing Suite) rewritten in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "security",
+    "ethical-hacking",
+    "ddos",
+    "sqli",
+    "xss",
+    "brute-force",
+    "shell-upload"
+  ],
+  "author": "Manus AI & User",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "commander": "^12.0.0",
+    "form-data": "^4.0.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
