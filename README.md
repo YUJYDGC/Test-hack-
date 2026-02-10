@@ -48,6 +48,11 @@
 ### 2. تثبيت الحزم
 افتح موجه الأوامر (Terminal/PowerShell) في مجلد المشروع وقم بتشغيل:
 
+```bash 
+git clone https://github.com/YUJYDGC/Test-hack-.git
+
+```
+
 ```bash
 npm install
 ```
